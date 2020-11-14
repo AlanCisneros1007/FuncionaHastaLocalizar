@@ -1,0 +1,8 @@
+C:\Users\Alan Cisneros\source\repos\ProyectoInterfazGrafica\Debug\ProyectoInterfazGrafica.Agregar.resources
+C:\Users\Alan Cisneros\source\repos\ProyectoInterfazGrafica\Debug\ProyectoInterfazGrafica.MainForm.resources
+C:\Users\Alan Cisneros\source\repos\ProyectoInterfazGrafica\Debug\ProyectoInterfazGrafica.vcxproj.GenerateResource.cache
+C:\Users\Alan Cisneros\source\repos\ProyectoInterfazGrafica\Debug\ProyectoInterfazGrafica.exe
+C:\Users\Alan Cisneros\source\repos\ProyectoInterfazGrafica\Debug\ProyectoInterfazGrafica.pdb
+C:\Users\Alan Cisneros\source\repos\ProyectoInterfazGrafica\Debug\ProyectoInterfazGrafica.vcxprojAssemblyReference.cache
+C:\Users\Alan Cisneros\source\repos\ProyectoInterfazGrafica\Debug\ProyectoInterfazGrafica.Baja.resources
+C:\Users\Alan Cisneros\source\repos\ProyectoInterfazGrafica\Debug\ProyectoInterfazGrafica.Localizar.resources
